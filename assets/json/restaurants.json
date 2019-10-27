@@ -1,0 +1,42 @@
+[
+    {
+        "restaurantId": 1,
+        "name": "Sofra",
+        "address": "Radnička cesta 50, 10000, Zagreb",
+        "type": "bosanska kuhinja",
+        "latitude": 45.80257,
+        "longitude": 16.00204
+    },
+    {
+        "restaurantId": 2,
+        "name": "Jagoda",
+        "address": "Radnička cesta 52, 10000 Zagreb",
+        "type": "market",
+        "latitude": 45.80238,
+        "longitude": 16.0028
+    },
+    {
+        "restaurantId": 3,
+        "name": "Batak",
+        "address": "Radnička cesta 37c, 10000, Zagreb",
+        "type": "grill",
+        "latitude": 45.80274,
+        "longitude": 16.00399
+    },
+    {
+        "restaurantId": 4,
+        "name": "Juice Box",
+        "address": "Radnička cesta 52, 10000, Zagreb",
+        "type": "zdrava prehrana",
+        "latitude": 45.80238,
+        "longitude": 16.0028
+    },
+    {
+        "restaurantId": 5,
+        "name": "Submarine Burger",
+        "address": "Radnička cesta 34, 10000, Zagreb",
+        "type": "burger bar",
+        "latitude": 45.80371,
+        "longitude": 15.99847
+    }
+ ]
