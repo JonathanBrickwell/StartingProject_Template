@@ -1,0 +1,11 @@
+@import '../abstracts/variables';
+
+body, html {
+    height: 100%;
+}
+
+body {
+    font-size: 1.3em;
+    color: $lightTextColor;
+    background: $bodyBackground;
+}
