@@ -68,3 +68,7 @@ body {
   font-size: 1.3em;
   color: #fefefe;
   background: #131313; }
+
+h1,
+h2 {
+  text-align: center; }
